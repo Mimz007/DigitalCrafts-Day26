@@ -1,0 +1,18 @@
+{
+  "name": "selecting",
+  "author": "evandrolg",
+  "repository": "evandrolg/selecting",
+  "version": "0.0.8",
+  "main": "src/selecting.js",
+  "keywords": ["selecting", "text", "share", "manipulation", "front-end"],
+  "Licence": "MIT",
+
+  "devDependencies": {
+    "uglify-js": "^2.4.16",
+    "mocha": "^2.1.x",
+    "mocha-phantomjs": "^3.5.x",
+    "jshint": "^2.5.x",
+    "chai": "^1.10.x",
+    "lintspaces-cli": "0.0.4"
+  }
+}
